@@ -1,0 +1,2 @@
+# TrollGod
+TrollGod.CC
